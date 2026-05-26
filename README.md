@@ -1,4 +1,4 @@
-# Thiết kế Hệ thống Điều chế - Giải điều chế 16-QAM ở mức Baseband IQ bằng Verilog RTL và Đánh giá Hiệu năng BER
+# Thiết kế và mô phỏng hệ thống điều chế – giải điều chế 16-QAM baseband IQ trên Verilog RTL với đánh giá BER theo SNR trong kênh AWGN
 
 Dự án này thực hiện thiết kế, mô phỏng và đánh giá hiệu năng của bộ thu phát điều chế/giải điều chế **16-QAM ở băng thông cơ sở (Baseband IQ)** sử dụng ngôn ngữ mô tả phần cứng **Verilog RTL**. Dự án kiểm chứng hiệu năng tỷ lệ lỗi bit (BER) thực nghiệm so với lý thuyết thông qua phương pháp mô phỏng thống kê **Monte Carlo** dưới tác động của kênh nhiễu Gaussian trắng cộng (**AWGN**).
 
